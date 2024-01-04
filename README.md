@@ -1,2 +1,2 @@
 SLOPE-DEFLECTION.
-This to analysis beam and frames using slope deflection method
+This is to analysis beams and frames using slope deflection method
